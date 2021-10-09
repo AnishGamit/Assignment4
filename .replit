@@ -1,0 +1,2 @@
+language = "swift"
+run = "swift p1.swift"
